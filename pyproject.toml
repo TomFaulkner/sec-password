@@ -1,9 +1,10 @@
 [tool.poetry]
 name = "sec-password"
-version = "0.1.1"
+version = "0.1.2"
 description = "Secure Password library using only Python standard lib"
 authors = ["Tom Faulkner <tomfaulkner@gmail.com>"]
 readme = "README.rst"
+homepage = "https://github.com/TomFaulkner/sec-password"
 
 [tool.poetry.dependencies]
 python = "^3.8"
